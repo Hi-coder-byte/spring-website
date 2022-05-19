@@ -1,0 +1,48 @@
+2022-05-17 09:58:17,199 [INFO  ] StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting SpringWebsiteApplication using Java 16.0.1 on DESKTOP-F97BRJU with PID 17312 (C:\Users\seiko\workspace\docker-items\spring-website\target\classes started by seiko in C:\Users\seiko\workspace\docker-items\spring-website)
+2022-05-17 09:58:17,205 [INFO  ] SpringApplication.logStartupProfileInfo(SpringApplication.java:640) - No active profile set, falling back to 1 default profile: "default"
+2022-05-17 09:58:17,236 [INFO  ] DeferredLog.logTo(DeferredLog.java:255) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-17 09:58:17,237 [INFO  ] DeferredLog.logTo(DeferredLog.java:255) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-17 09:58:17,801 [INFO  ] RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-17 09:58:17,802 [INFO  ] RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-17 09:58:17,815 [INFO  ] RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-05-17 09:58:18,103 [INFO  ] TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8081 (http)
+2022-05-17 09:58:18,113 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8081"]
+2022-05-17 09:58:18,113 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+2022-05-17 09:58:18,114 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-17 09:58:18,165 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+2022-05-17 09:58:18,165 [INFO  ] ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:290) - Root WebApplicationContext: initialization completed in 927 ms
+2022-05-17 09:58:18,759 [INFO  ] DefaultSecurityFilterChain.<init>(DefaultSecurityFilterChain.java:52) - Will not secure any request
+2022-05-17 09:58:18,886 [INFO  ] WelcomePageHandlerMapping.<init>(WelcomePageHandlerMapping.java:57) - Adding welcome page template: index
+2022-05-17 09:58:19,094 [INFO  ] OptionalLiveReloadServer.startServer(OptionalLiveReloadServer.java:58) - LiveReload server is running on port 35729
+2022-05-17 09:58:19,096 [INFO  ] EndpointLinksResolver.<init>(EndpointLinksResolver.java:58) - Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-05-17 09:58:19,116 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8081"]
+2022-05-17 09:58:19,123 [INFO  ] TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8081 (http) with context path '/client'
+2022-05-17 09:58:19,741 [INFO  ] ScheduledAnnotationBeanPostProcessor.finishRegistration(ScheduledAnnotationBeanPostProcessor.java:315) - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2022-05-17 09:58:19,745 [INFO  ] StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started SpringWebsiteApplication in 2.759 seconds (JVM running for 3.382)
+2022-05-17 09:58:20,110 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 09:58:20,110 [INFO  ] FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+2022-05-17 09:58:20,111 [INFO  ] FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 1 ms
+2022-05-17 10:02:17,926 [INFO  ] StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting SpringWebsiteApplication using Java 16.0.1 on DESKTOP-F97BRJU with PID 19988 (C:\Users\seiko\workspace\docker-items\spring-website\target\classes started by seiko in C:\Users\seiko\workspace\docker-items\spring-website)
+2022-05-17 10:02:17,932 [INFO  ] SpringApplication.logStartupProfileInfo(SpringApplication.java:640) - No active profile set, falling back to 1 default profile: "default"
+2022-05-17 10:02:17,970 [INFO  ] DeferredLog.logTo(DeferredLog.java:255) - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-17 10:02:17,972 [INFO  ] DeferredLog.logTo(DeferredLog.java:255) - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-17 10:02:18,602 [INFO  ] RepositoryConfigurationDelegate.multipleStoresDetected(RepositoryConfigurationDelegate.java:262) - Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-17 10:02:18,603 [INFO  ] RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:132) - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-17 10:02:18,616 [INFO  ] RepositoryConfigurationDelegate.registerRepositoriesIn(RepositoryConfigurationDelegate.java:201) - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-05-17 10:02:18,940 [INFO  ] TomcatWebServer.initialize(TomcatWebServer.java:108) - Tomcat initialized with port(s): 8081 (http)
+2022-05-17 10:02:18,951 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8081"]
+2022-05-17 10:02:18,951 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+2022-05-17 10:02:18,951 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-05-17 10:02:19,001 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+2022-05-17 10:02:19,001 [INFO  ] ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:290) - Root WebApplicationContext: initialization completed in 1028 ms
+2022-05-17 10:02:19,675 [INFO  ] DefaultSecurityFilterChain.<init>(DefaultSecurityFilterChain.java:52) - Will not secure any request
+2022-05-17 10:02:19,810 [INFO  ] WelcomePageHandlerMapping.<init>(WelcomePageHandlerMapping.java:57) - Adding welcome page template: index
+2022-05-17 10:02:20,047 [INFO  ] OptionalLiveReloadServer.startServer(OptionalLiveReloadServer.java:58) - LiveReload server is running on port 35729
+2022-05-17 10:02:20,051 [INFO  ] EndpointLinksResolver.<init>(EndpointLinksResolver.java:58) - Exposing 14 endpoint(s) beneath base path '/actuator'
+2022-05-17 10:02:20,073 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8081"]
+2022-05-17 10:02:20,080 [INFO  ] TomcatWebServer.start(TomcatWebServer.java:220) - Tomcat started on port(s): 8081 (http) with context path '/client'
+2022-05-17 10:02:20,698 [INFO  ] ScheduledAnnotationBeanPostProcessor.finishRegistration(ScheduledAnnotationBeanPostProcessor.java:315) - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2022-05-17 10:02:20,704 [INFO  ] StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started SpringWebsiteApplication in 3.003 seconds (JVM running for 3.849)
+2022-05-17 10:02:21,235 [INFO  ] DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-17 10:02:21,235 [INFO  ] FrameworkServlet.initServletBean(FrameworkServlet.java:525) - Initializing Servlet 'dispatcherServlet'
+2022-05-17 10:02:21,236 [INFO  ] FrameworkServlet.initServletBean(FrameworkServlet.java:547) - Completed initialization in 1 ms
